@@ -1,0 +1,23 @@
+{
+  "Records": [{
+    "SequenceNumber": "49636132766700397055982942420278687602828987971452010498",
+    "ApproximateArrivalTimestamp": "2022-12-15T16:56:48.091000+01:00",
+    "Data": "dGhlIENoYWluZWQgV29tYW4=",
+    "PartitionKey": "Alpha"
+  },
+    {
+      "SequenceNumber": "49636132766700397055982942420279896528648604043735728130",
+      "ApproximateArrivalTimestamp": "2022-12-15T16:57:08.663000+01:00",
+      "Data": "dGhlIG9yaW9u",
+      "PartitionKey": "Alpha"
+    },
+    {
+      "SequenceNumber": "49636132766700397055982942420281105454468219841141538818",
+      "ApproximateArrivalTimestamp": "2022-12-15T16:57:25.456000+01:00",
+      "Data": "dGhlIHVzcmEgbWlub3I=",
+      "PartitionKey": "Alpha"
+    }
+  ],
+  "NextShardIterator": "AAAAAAAAAAH5z9iH/YzRx8a0vcZgmvolROmORcAaKttTjE9aC4s1sRmPf11jBSpRagKI6EKFfYW2OwE4cn8aFRsORIcoX4xU3P0TMcPs9ds1761ACTaMUI9sEFIxMNiAjuCiL3483HL9I1PsW0DutAV/6kWKjLQKIvrW2wPAFWZVyifIM/9SR+0xwTj5vrgzrx+oaCx/Ez1rfmYHw7We/PanCT9i9xJ/DFvr33KGBP3BOUtU1tx3Sw==",
+  "MillisBehindLatest": 0
+}

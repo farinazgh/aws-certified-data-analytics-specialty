@@ -1,0 +1,55 @@
+{
+  "StreamDescription": {
+    "Shards": [{
+      "ShardId": "shardId-000000000000",
+      "HashKeyRange": {
+        "StartingHashKey": "0",
+        "EndingHashKey": "85070591730234615865843651857942052863"
+      },
+      "SequenceNumberRange": {
+        "StartingSequenceNumber": "49636130727163444179166272387984410482041198918552780802"
+      }
+    },
+      {
+        "ShardId": "shardId-000000000001",
+        "HashKeyRange": {
+          "StartingHashKey": "85070591730234615865843651857942052864",
+          "EndingHashKey": "170141183460469231731687303715884105727"
+        },
+        "SequenceNumberRange": {
+          "StartingSequenceNumber": "49636130727185744924364803011125946200313847280058761234"
+        }
+      },
+      {
+        "ShardId": "shardId-000000000002",
+        "HashKeyRange": {
+          "StartingHashKey": "170141183460469231731687303715884105728",
+          "EndingHashKey": "255211775190703847597530955573826158591"
+        },
+        "SequenceNumberRange": {
+          "StartingSequenceNumber": "49636130727208045669563333634267481918586495641564741666"
+        }
+      },
+      {
+        "ShardId": "shardId-000000000003",
+        "HashKeyRange": {
+          "StartingHashKey": "255211775190703847597530955573826158592",
+          "EndingHashKey": "340282366920938463463374607431768211455"
+        },
+        "SequenceNumberRange": {
+          "StartingSequenceNumber": "49636130727230346414761864257409017636859144003070722098"
+        }
+      }
+    ],
+    "StreamARN": "arn:aws:kinesis:eu-west-1:716165744416:stream/Andromeda",
+    "StreamName": "Andromeda",
+    "StreamStatus": "ACTIVE",
+    "RetentionPeriodHours": 24,
+    "EnhancedMonitoring": [{
+      "ShardLevelMetrics": []
+    }],
+    "EncryptionType": "NONE",
+    "KeyId": null,
+    "StreamCreationTimestamp": "2022-12-15T15:20:57+01:00"
+  }
+}
